@@ -1,0 +1,16 @@
+Patient ID: 00000001,, Vaccine Administered: AF,, Vaccine Center: 1,, Date of first vaccine: Saturday,, 30 September,, 2023,, Status: COMPLETED-D1,, Date of second vaccine: Saturday,, 14 October,, 2023
+Patient ID: 00000002, Vaccine Administered: DM, Vaccine Center: 2, Date of first vaccine: Sunday, 29 August, 2021, Status: COMPLETED, Date of second vaccine: Sunday, 26 September, 2021
+Patient ID: 00000003, Vaccine Administered: BV, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000004, Vaccine Administered: EC, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000005, Vaccine Administered: AF, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000006, Vaccine Administered: CZ, Vaccine Center: 2, Date of first vaccine: Sunday, 05 September, 2021, Status: COMPLETED, Date of second vaccine: Sunday, 26 September, 2021
+Patient ID: 00000007, Vaccine Administered: AF, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000008, Vaccine Administered: EC, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000009, Vaccine Administered: DM, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000010, Vaccine Administered: BV, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000011, Vaccine Administered: CZ, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000012, Vaccine Administered: EC, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000013, Vaccine Administered: DM, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000014, Vaccine Administered: AF, Vaccine Center: 2, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000015, Vaccine Administered: DM, Vaccine Center: 1, Date of first vaccine: Not Available, Status: NEW, Date of second vaccine: Not Available
+Patient ID: 00000016, Vaccine Administered: AF, Vaccine Center: 1, Date of first vaccine: Sunday, 26 September, 2021, Status: COMPLETED-D1, Date of second vaccine: Sunday, 10 October, 2021
